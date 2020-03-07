@@ -1,0 +1,50 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/Escritorio/dojo-scala'
+INFO  time: initialize in 1.23s
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/holamundo.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/.metals/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/object1.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/match.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/bucle.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/bucle.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/bucle.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/bucle.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/colecciones.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/colecciones.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/colecciones.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/colecciones.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/ejercicio.scala
+mar. 07, 2020 6:16:58 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 818
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/personas.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/personas.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/personas.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/personas.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala/personas.scala
